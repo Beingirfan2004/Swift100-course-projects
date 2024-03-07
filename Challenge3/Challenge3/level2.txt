@@ -1,0 +1,10 @@
+ASTRONAUT: Person who travels in space.
+PENGUIN: Flightless bird found in cold regions.
+BICYCLE: Two-wheeled vehicle powered by pedals.
+FIREWORKS: Explosive pyrotechnic display.
+LIBRARY: Place where books are borrowed and read.
+TELESCOPE: Optical instrument for viewing distant objects.
+ADVENTURE: Exciting or daring experience.
+BUTTERFLY: Insect with colorful wings.
+MYSTERY: Something that is unknown or unexplained.
+TREASURE: Valuable items hidden or buried.

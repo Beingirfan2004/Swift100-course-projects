@@ -1,0 +1,10 @@
+APPLE: Red or green fruit.
+TIGER: Large feline predator.
+COMPUTER: Electronic device for processing data.
+ELEPHANT: Massive land mammal.
+OCEAN: Large body of saltwater.
+PYRAMID: Ancient stone structure.
+CHOCOLATE: Sweet treat made from cocoa.
+VOLCANO: Mountain that erupts lava.
+DIAMOND: Precious gemstone.
+TORNADO: Violent rotating column of air.

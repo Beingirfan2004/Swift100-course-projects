@@ -24,19 +24,18 @@ class ViewController: UITableViewController {
         tableView.delegate = self
         let fm = FileManager.default
         let path = Bundle.main.resourcePath!
-        DispatchQueue.global(qos: .userInteractive).async { [weak self] in
-            let items = try! fm.contentsOfDirectory(atPath: path)
-            
-            for item in items {
-                if item.hasPrefix("nssl") {
-                    // picture to be loaded!
-                    
-                    self?.pictures.append(item)
-                }
+        let items = try! fm.contentsOfDirectory(atPath: path)
+        
+        for item in items {
+            if item.hasPrefix("nssl") {
+                // picture to be loaded!
+                
+                pictures.append(item)
             }
-            self?.pictures.sort()
         }
         
+        pictures.sort()
+
     }
     
     
